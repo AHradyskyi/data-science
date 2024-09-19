@@ -11,7 +11,7 @@
 </p>
 </div>
 
-## Contents
+## Contents  :white_check_mark:
 
 - [About](#about)
 - [Curricular Guideline](#curricular-guideline)
